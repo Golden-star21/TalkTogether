@@ -1,0 +1,2 @@
+Sem kopiraj svoja dva WAV zvoka za odhodni in dohodni klic iz delujoce 0.5.0.
+Imeni datotek morata ostati enaki kot v kodi 0.5.0.
